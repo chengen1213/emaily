@@ -1,0 +1,26 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "12.13.0",
+    "npm": "6.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengen1213/email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengen1213/email/issues"
+  },
+  "homepage": "https://github.com/chengen1213/email#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
